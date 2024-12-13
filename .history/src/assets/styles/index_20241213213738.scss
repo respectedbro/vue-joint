@@ -1,0 +1,8 @@
+@import url("./reset.scss");
+@import url("./common.scss");
+
+@import '@/assets/styles/fonts.scss'; // Импортируйте ваш файл шрифтов
+
+.custom-font {
+  font-family: 'MyCustomFont', sans-serif; // Используйте шрифт
+}
