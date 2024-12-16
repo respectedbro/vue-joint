@@ -1,12 +1,11 @@
 <template>
   <div>
-    <h1>About Page</h1>
+    <UsefulArticle />
   </div>
 </template>
 
-<script>
+<script setup>
+import UsefulArticle from '@/components/UsefulArticle.vue';
 </script>
 
-<style>
-
-</style>
+<style></style>
